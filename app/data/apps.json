@@ -1,0 +1,26 @@
+{
+    "calculator": {
+        "open": "calc.exe",
+        "process": ["CalculatorApp.exe", "Calculator.exe", "calc.exe"]
+    },
+    "notepad": {
+        "open": "notepad.exe",
+        "process": ["notepad.exe"]
+    },
+    "chrome": {
+        "open": "chrome.exe",
+        "process": ["chrome.exe"]
+    },
+    "vscode": {
+        "open": "code",
+        "process": ["Code.exe"]
+    },
+    "cursor": {
+        "open": "C:\\Users\\HP\\AppData\\Local\\Programs\\cursor\\Cursor.exe",
+        "process": ["Cursor.exe"]
+    },
+    "slack": {
+        "open": "C:\\Users\\HP\\AppData\\Local\\Microsoft\\WindowsApps\\Slack.exe",
+        "process": ["slack.exe", "Slack.exe"]
+    }
+}
